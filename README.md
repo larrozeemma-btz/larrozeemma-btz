@@ -3,6 +3,8 @@
 
 **Data Analyst | Growth, E-commerce & Business Analytics | Los Angeles**
 
+**Portfolio:** [larrozeemma-btz.github.io](https://larrozeemma-btz.github.io)
+
 I turn messy business data into decisions people act on. My work sits between the query and the meeting: SQL and Python to find what is really happening, and clear writing to get it adopted. I have done this across growth, e-commerce, and consumer brands in the US, Europe, Brazil, and Asia-Pacific. Bilingual English/French.
 
 ### Featured work
@@ -20,4 +22,4 @@ SQL (BigQuery) · Python (pandas, scikit-learn, matplotlib) · R · Tableau · P
 
 ### Let's talk
 
-[LinkedIn](https://www.linkedin.com/in/emma-l-4276a695/)
+[LinkedIn](https://www.linkedin.com/in/emma-l-4276a695/) · [Portfolio](https://larrozeemma-btz.github.io)
