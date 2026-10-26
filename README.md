@@ -10,15 +10,17 @@ I sit between the data and the decision. I build the pipelines, metric definitio
 ### What I do
 
 - **Business & revenue operations:** pipeline design, CRM and funnel reporting, forecasting and capacity planning, process automation
-- **Data analytics:** SQL and Python analysis, cohort and unit economics, KPI frameworks and dashboards, A/B testing
-- **Business analysis:** metric definitions, process mapping, stakeholder alignment, Agile delivery (PSPO I)
+- **Data analytics:** SQL and Python analysis, cohort and unit economics, KPI frameworks and dashboards, A/B testing, retrieval and LLM evaluation
+- **Business analysis:** business rules and data modeling, metric definitions, process mapping, stakeholder alignment, Agile delivery (PSPO I)
 
 ### Featured work
 
 | Project | Business question | Skills |
 |---|---|---|
 | [MPCI Growth Automation System](https://github.com/larrozeemma-btz/mpci-growth-demo) ([demo](https://larrozeemma-btz.github.io/mpci-growth-demo/)) | How can one analyst run an international B2B pipeline from first contact to booked call to monthly report? | Revenue operations, CRM, automation |
+| [Wellness Clinic Database](https://github.com/larrozeemma-btz/clinic-database-design) | How do you turn a clinic's messy records into a database that cannot contradict itself? | Business rules, data modeling, SQL |
 | [VITAE & CO. Strategic Diagnostic](https://github.com/larrozeemma-btz/vitae-strategic-diagnostic) | Where should a scaling business invest, and where should it cut? | Python, unit economics, cohort analysis |
+| [Sales Data RAG Pipeline](https://github.com/larrozeemma-btz/sales-data-rag-pipeline) | Why did an AI search over sales data return the wrong rows, and how much better can it get? (35% to 89% precision) | Python, retrieval evaluation, root cause analysis |
 | [Revenue & Funnel Diagnostic (Google Merchandise Store)](https://github.com/larrozeemma-btz/gms-ecommerce-diagnostic) | Which channels and funnel steps actually drive revenue? | SQL, BigQuery, attribution |
 | [Hike Footwear Conversion Audit](https://github.com/larrozeemma-btz/hike-footwear-cro-case-study) ([live page](https://larrozeemma-btz.github.io/hike-footwear-cro-case-study/)) | Why does strong traffic fail to turn into revenue, and what is the fix worth? | Funnel analysis, A/B test design |
 | [Aesop UAE Conversion Audit](https://github.com/larrozeemma-btz/aesop-cro-research-case) ([live page](https://larrozeemma-btz.github.io/aesop-cro-research-case/)) | Where do customers drop off, and which tests should run first? | UX audit, A/B test design |
