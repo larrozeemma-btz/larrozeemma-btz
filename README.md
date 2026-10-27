@@ -17,6 +17,7 @@ I sit between the data and the decision. I build the pipelines, metric definitio
 
 | Project | Business question | Skills |
 |---|---|---|
+| [MUSE Marketing Measurement](https://github.com/larrozeemma-btz/muse-dbt) ([dashboard](https://larrozeemma-btz.github.io/muse-dbt/)) | Which channels create demand, which only capture it, and what pipeline does marketing really drive? | dbt, BigQuery, multi-touch attribution, semantic layer |
 | [MPCI Growth Automation System](https://github.com/larrozeemma-btz/mpci-growth-demo) ([demo](https://larrozeemma-btz.github.io/mpci-growth-demo/)) | How can one analyst run an international B2B pipeline from first contact to booked call to monthly report? | Revenue operations, CRM, automation |
 | [Wellness Clinic Database](https://github.com/larrozeemma-btz/clinic-database-design) | How do you turn a clinic's messy records into a database that cannot contradict itself? | Business rules, data modeling, SQL |
 | [VITAE & CO. Strategic Diagnostic](https://github.com/larrozeemma-btz/vitae-strategic-diagnostic) | Where should a scaling business invest, and where should it cut? | Python, unit economics, cohort analysis |
