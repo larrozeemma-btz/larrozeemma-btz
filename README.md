@@ -28,7 +28,7 @@ I sit between the data and the decision. I build the pipelines, metric definitio
 
 ### Toolkit
 
-SQL (BigQuery) · Python (pandas, scikit-learn, matplotlib) · R · Tableau · Power BI · Looker Studio · Excel & Google Sheets · Notion · Make & Zapier · Jira & Confluence · Agile Scrum (PSPO I) · Claude & LLM tools
+SQL (BigQuery) · dbt (models, tests, semantic layer) · Python (pandas, scikit-learn, matplotlib) · R · Tableau · Power BI · Looker Studio · Excel & Google Sheets · Notion · Make & Zapier · Jira & Confluence · Agile Scrum (PSPO I) · Claude & LLM tools
 
 ### Let's talk
 
