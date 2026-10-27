@@ -1,7 +1,7 @@
 <!-- Profile README for github.com/larrozeemma-btz -->
 # Emma Larroze
 
-**Data & Business Analyst | Business & Revenue Operations | Data Analytics | Cross-functional Execution**
+**Data & Business Analyst | Revenue & Marketing Analytics | Analytics Engineering (SQL · dbt · Python)**
 
 Los Angeles | Bilingual English/French | **Portfolio:** [larrozeemma-btz.github.io](https://larrozeemma-btz.github.io)
 
@@ -10,8 +10,9 @@ I sit between the data and the decision. I build the pipelines, metric definitio
 ### What I do
 
 - **Business & revenue operations:** pipeline design, CRM and funnel reporting, forecasting and capacity planning, process automation
-- **Data analytics:** SQL and Python analysis, cohort and unit economics, KPI frameworks and dashboards, A/B testing, retrieval and LLM evaluation
-- **Business analysis:** business rules and data modeling, metric definitions, process mapping, stakeholder alignment, Agile delivery (PSPO I)
+- **Data analytics:** SQL and Python analysis, cohort and unit economics, KPI frameworks and dashboards, marketing funnels and attribution, A/B testing, retrieval and LLM evaluation
+- **Analytics engineering:** dbt models and tests, semantic layers, data quality checks
+- **Business analysis:** business rules and data modeling, metric definitions, process mapping, stakeholder alignment, presenting findings to decision-makers, Agile delivery (PSPO I)
 
 ### Featured work
 
